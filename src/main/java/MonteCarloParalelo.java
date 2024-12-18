@@ -33,7 +33,7 @@ public class MonteCarloParalelo {
             insideCircle += result.get();
         }
 
-        executor.shutdown(); // Finalizar executor
+        executor.shutdown();
 
         double pi = 4.0 * insideCircle / totalPoints;
 

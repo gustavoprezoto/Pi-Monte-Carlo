@@ -1,5 +1,6 @@
 # Cálculo de Pi por Método Monte Carlo
 
+#### Disciplina: ES45A - Sistemas Distribuidos - ES51 (2024_02) - UTFPR-CP
 
 ## Integrantes
 
